@@ -1,5 +1,9 @@
+# Info
 the best projects by UtoECat.
 
+# help
+
+# Community guidelines
 please make sure to follow btheese aisc community guidelines when making contribution or discussion :
 - The contribution of every member of the community is equally important, regardless of personal and physical qualities, geopolitics, gender, etc.
 - bullying, trolling, spam, politics, harassment, and any other inappropriate behavior in communications and contributions is prohibited.
